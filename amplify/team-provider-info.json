@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-darktierstudios-dev-170000-authRole",
+            "UnauthRoleArn": "arn:aws:iam::210120940769:role/amplify-darktierstudios-dev-170000-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::210120940769:role/amplify-darktierstudios-dev-170000-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-darktierstudios-dev-170000-deployment",
+            "UnauthRoleName": "amplify-darktierstudios-dev-170000-unauthRole",
+            "StackName": "amplify-darktierstudios-dev-170000",
+            "StackId": "arn:aws:cloudformation:us-east-1:210120940769:stack/amplify-darktierstudios-dev-170000/dacae860-adb8-11ea-9872-12217e59f19f",
+            "AmplifyAppId": "d2vxnancumgtbm"
+        }
+    }
+}
